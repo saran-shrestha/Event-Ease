@@ -1,2 +1,2 @@
-# Event-Ease
-This is a UI for an event management system.
+**#Event Management System UI**
+This repository contains the user interface (UI) design for an event management system. The UI is designed to provide a seamless and intuitive experience for users to organize, schedule, and manage various events efficiently. With a clean and modern interface, users can easily navigate through the system, create new events, manage attendees, and view event details. The design prioritizes user experience and aims to enhance productivity for event organizers. 
